@@ -1,1 +1,2 @@
-# food.haiderrizvi.tech
+# Haider Rizvi Food Blogs
+https://food.haiderrizvi.tech
